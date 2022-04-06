@@ -4,7 +4,9 @@
 </br>
 
 Hello, I'm [Aman India], a passionate Computer science student pursuing my Dream. I have a great interest in Artificial Intelligence and thus, you can find most of my projects in the same domain.
-                                                                                                                       
+
+Moreover now, I am learning fullstack development and understanding new technologies such as swift, react, firebase and others to build a full fledge project and deploy it over Internet.
+
 Furthermore, Community work is what I love to do and you can find me doing the same. Well I have a community where I teach concepts and help learners out, You can join it on <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
 
 <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm">
