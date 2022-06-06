@@ -28,7 +28,7 @@ Furthermore, Community work gives me satisfaction, So I have a community where I
 <li>Love doing Community work</li>
  <li>Currently Building my dream project <strong> AANH </strong></li>
 <li>Doing competetive programming gives me kick <a href="https://www.codechef.com/users/amanindia"> </a>
-  <li> Hoobies: Love reading Books and sports is in my Blood <img  alt="GIF" src="https://w7.pngwing.com/pngs/643/954/png-transparent-hobby-symbol-computer-icons-interests-text-photography-public-relations.png" width="20" height="20" </li>
+  <li> Hoobies: Love reading Books and Adventure is in my Blood <img  alt="GIF" src="https://w7.pngwing.com/pngs/643/954/png-transparent-hobby-symbol-computer-icons-interests-text-photography-public-relations.png" width="20" height="20" </li>
   
  </ul>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
