@@ -3,15 +3,20 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=amanindia.amanindia)
 </br>
 
-Hello, I'm [Aman India], a passionate Computer science student pursuing my Dream. I have a great interest in Artificial Intelligence and thus, you can find most of my projects in the same domain.
+Hello, I'm Aman,
+A passionate learner who is enthusiastic about new technologies. Currently, I am exploring Artificial Intelligence and doing my Internship at TAKELEAP in the role of Machine learning Engineer Intern.
 
-Moreover now, I am learning fullstack development and understanding new technologies such as swift, react, firebase and others to build a full fledge project and deploy it over Internet.
+Moreover, Computer Vision fascinates me, thus you can find most of my projects in the same domain.
 
-Furthermore, Community work is what I love to do and you can find me doing the same. Well I have a community where I teach concepts and help learners out, You can join it on <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
+Every day I look for new Technologies and learn- Exploring new ones.
+
+
+Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts. You can join it on (200+ active members) <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
 
 <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm">
   <img " alt="TYSAL" width="22px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
 </a>
+
 
 
 <h2> About me </h2>
