@@ -6,11 +6,10 @@
 I am a passionate young Energy moving on the path of learning and building things for good. Learning never exhaust me, thus I always try to look for things that enrich my knowledge.
 
 As "Bhagwat gita" also says, "Knowledge never dies, it carries forward with you to the next birth" : )
-Moreover,
 
+Moreover,</br>
 I am Data Science Enthusiastic and in my GitHub Repository, you will find most of my projects in the same.
-
-I have projects in Computer vision, NLP, Deep Learning, and other AI Technologies.
+I have projects in Computer vision, NLP, Deep Learning, and in other AI Technologies.
 
 The projects are truly by me, mostly made as part of the assignment or part of my personal learning(Experiment), or even for fun.
 
