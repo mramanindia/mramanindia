@@ -3,12 +3,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=amanindia.amanindia)
 </br>
 
-Hello, I'm Aman,
-A passionate learner who is enthusiastic about new technologies. Currently, I am exploring Artificial Intelligence and doing my Internship at TAKELEAP in the role of Machine learning Engineer Intern.
+I am a passionate young Energy moving on the path of learning and building things for good. Learning never exhaust me, thus I always try to look for things that enrich my knowledge.
 
-Moreover, Computer Vision fascinates me, thus you can find most of my projects in the same domain.
+As "Bhagwat gita" also says, "Knowledge never dies, it carries forward with you to the next birth" : )
+Moreover,
 
-Every day I look for new Technologies and learn- Exploring new ones.
+I am Data Science Enthusiastic and in my GitHub Repository, you will find most of my projects in the same.
+
+I have projects in Computer vision, NLP, Deep Learning, and other AI Technologies.
+
+The projects are truly by me, mostly made as part of the assignment or part of my personal learning(Experiment), or even for fun.
 
 
 Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts. You can join it on (200+ active members) <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
@@ -26,7 +30,6 @@ Furthermore, Community work gives me satisfaction, So I have a community where I
 </a> </li>
 <li>Great Interest in Artificial Intellegence</li>
 <li>Love doing Community work</li>
- <li>Currently Building my dream project <strong> AANH </strong></li>
 <li>Doing competetive programming gives me kick <a href="https://www.codechef.com/users/amanindia"> </a>
   <li> Hoobies: Love reading Books and Adventure is in my Blood <img  alt="GIF" src="https://w7.pngwing.com/pngs/643/954/png-transparent-hobby-symbol-computer-icons-interests-text-photography-public-relations.png" width="20" height="20" </li>
   
