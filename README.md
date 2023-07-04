@@ -1,17 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=amanindia.amanindia)
+![](https://visitor-badge.glitch.me/badge?page_id=mramanindia)
 </br>
 
 I am a passionate young Energy moving on the path of learning and building things for good. Learning never exhausts me, thus I always try to look for things that enrich my knowledge.
 
-As "Bhagwat gita" also says, "Knowledge never dies, it carries forward with you to the next birth" : )
+As "Bhagwat Gita" also says, "Knowledge never dies, it carries forward with you to the next birth" : )
 
 Moreover,</br>
 I am Data Science Enthusiastic and in my GitHub Repository, you will find most of my projects in the same.
 I have projects in Computer vision, NLP, Deep Learning, and in other AI Technologies.
 
-The projects are truly by me, mostly made as part of the taks or part of my personal learning(Experiment), or even for fun.
+The projects are truly by me, mostly made as part of the tasks or part of my personal learning(Experiment), or even for fun.
 
 
 Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts. You can join it on (200+ active members) <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
