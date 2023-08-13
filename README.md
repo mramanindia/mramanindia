@@ -14,7 +14,7 @@ I have projects in Computer vision, NLP, Deep Learning, and in other AI Technolo
 The projects are truly by me, mostly made as part of the tasks or part of my personal learning(Experiment), or even for fun.
 
 
-Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts. You can join it on (200+ active members) <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm"> TYSAL </a>
+Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts.
 
 <a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm">
   <img " alt="TYSAL" width="22px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
@@ -24,7 +24,7 @@ Furthermore, Community work gives me satisfaction, So I have a community where I
 
 <h2> About me </h2>
 <ul>
-  <li>Fresh Computer Science Gradute from Lovely Professional University (2019-2023 ~ Batch) <a href="https://www.lpu.in/">
+  <li>Fresh Computer Science Graduate from Lovely Professional University (2019-2023 ~ Batch) <a href="https://www.lpu.in/">
   <img " alt="LPU" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Lovely_Professional_University_logo.png/120px-Lovely_Professional_University_logo.png" />
 </a> </li>
 <li>Great Interest in Artificial Intellegence</li>
@@ -42,11 +42,6 @@ Furthermore, Community work gives me satisfaction, So I have a community where I
                               
 <a href="https://www.codechef.com/users/amanindia">
   <img  alt="Codechef" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a> </li> 
-
-</a>
-<a href="https://www.instagram.com/aman__2o/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401__340.png" />
 </a> </li> 
                               
                               
