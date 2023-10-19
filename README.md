@@ -1,43 +1,19 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=mramanindia)
+I am Aman, a bright life building here things for good.
 </br>
-
-I am a passionate young Energy moving on the path of learning and building things for good. Learning never exhausts me, thus I always try to look for things that enrich my knowledge.
-
-As "Bhagwat Gita" also says, "Knowledge never dies, it carries forward with you to the next birth" : )
-
-Moreover,</br>
-I am Data Science Enthusiastic and in my GitHub Repository, you will find most of my projects in the same.
+In my repo, You will find most of my projects in AI, being more specific,
 I have projects in Computer vision, NLP, Deep Learning, and in other AI Technologies.
 
-The projects are truly by me, mostly made as part of the tasks or part of my personal learning(Experiment), or even for fun.
+Please do explore it and use it if it comes for your need,
+Happy helping : ) </br>
+Thanks.
 
-
-Furthermore, Community work gives me satisfaction, So I have a community where I teach concepts and help learners out with technological concepts.
-
-<a href="https://chat.whatsapp.com/HA6NMdYFt71IiyhAFaR7zm">
-  <img " alt="TYSAL" width="22px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
-</a>
-
-
-
-<h2> About me </h2>
-<ul>
-  <li>Fresh Computer Science Graduate from Lovely Professional University (2019-2023 ~ Batch) <a href="https://www.lpu.in/">
-  <img " alt="LPU" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Lovely_Professional_University_logo.png/120px-Lovely_Professional_University_logo.png" />
-</a> </li>
-<li>Great Interest in Artificial Intellegence</li>
-<li>Love doing Community work</li>
-<li>Doing competitive programming gives me kick <a href="https://www.codechef.com/users/amanindia"> </a>
-  <li> Hobbies: Love reading Books and Adventure is in my Blood <img  alt="GIF" src="https://w7.pngwing.com/pngs/643/954/png-transparent-hobby-symbol-computer-icons-interests-text-photography-public-relations.png" width="20" height="20" </li>
-  
  </ul>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-<h2>My Handles </h2>
-<a href="https://www.linkedin.com/in/amanindia/">
-  <img align="left" alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<h2>My Profiles:</h2>
+<a href="https://www.linkedin.com/in/mramanindia/"> LinkedIN
 </a>
                               
 <a href="https://www.codechef.com/users/amanindia">
@@ -46,7 +22,7 @@ Furthermore, Community work gives me satisfaction, So I have a community where I
                               
                               
 </br>
-<h2>Languages and tools: </h2>
+<h2>Languages and tools I am Good at: </h2>
 </br>
 
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg"></code>
