@@ -2,12 +2,16 @@
 
 I am Aman, a bright life building here things for good.
 </br>
+
 Welcome to my profile, 
+</br>
 Over here you will find most of my repositories with projects in AI, being more specific,
 I have projects in Computer vision, NLP, Deep Learning, and in other AI Technologies.
 
 Yeah, its fun doing and sharing with you,
-Please do explore it and use it if it comes to your needs,
+</br>
+Please do explore it and use it if it comes to your needs.
+
 Happy coding : ) </br>
 Thanks.
 
