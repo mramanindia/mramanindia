@@ -1,25 +1,24 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Aman, a bright life building here things for good.
 </br>
 
 Welcome to my profile, 
 </br>
-Over here you will find most of my repositories with projects in AI, being more specific,
-I have projects in Computer vision, NLP, Deep Learning, and in other AI Technologies.
+Over here you will find repositories with projects in AI, being more specific,
+Projects in Computer vision, NLP, Deep Learning, and other AI Technologies.
 
-Yeah, its fun doing and sharing with you,
+Yeah, it's fun solving and sharing here,
 </br>
-Please do explore it and use it if it comes to your needs.
+Please explore it and use it if you need it.
 
-Happy coding : ) </br>
+Happy Engineering : ) </br>
 Thanks.
 
  </ul>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 <h2>My Profiles:</h2>
-<a href="https://www.linkedin.com/in/mramanindia/"> LinkedIN
+<a href="https://www.linkedin.com/in/mramanindia/"> LinkedIn
 </a>
                               
 <a href="https://www.codechef.com/users/amanindia">
