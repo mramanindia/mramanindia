@@ -1,40 +1,40 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="aman_kayaking.png" width="280" align="right" alt="Kayaking" />
 
-I build stuff with AI—mostly around agents, LLMs, and making things actually work in production. I like solving problems and sharing what I learn. Feel free to poke around, use anything you find useful, or say hi.
+## #EngineeringLife : )
 
----
+Hello there, I'm a curious engineer curating wonders.
 
-<h2>📊 GitHub Stats</h2>
+Technology fascinates me—the journey from automation to generation, things are changing rapidly, and here I am trying to add value in the process. You can find me discussing AI here and over my other profiles.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mramanindia&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mramanindia&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+**Beyond Engineering:** I enjoy delving into philosophy and watching documentaries/case studies. These interests help me stay curious and inspired.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramanindia&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+Feel free to poke around, use anything you find useful, or say hi.
 
 ---
 
-<h2>🔗 Connect</h2>
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mramanindia/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amanindia)
-
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="AWS"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg" alt="Azure"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" alt="Kubernetes"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" alt="Jupyter"></code>
+<img src="https://github-readme-stats.vercel.app/api?username=mramanindia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400" />
+<img src="https://streak-stats.demolab.com/?user=mramanindia&theme=dark&hide_border=true&background=0D1117&ring=1f6feb" width="400" />
 
 ---
 
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="240" />
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mramanindia/) · [GitHub](https://github.com/mramanindia) · [Portfolio](https://mramanindia.github.io/)
+
