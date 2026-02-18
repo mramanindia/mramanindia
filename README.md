@@ -1,6 +1,6 @@
-<img src="aman_kayaking.png" width="280" align="right" alt="Kayaking" />
+<img src="aman_kayaking.png" width="400" align="right" alt="Kayaking" />
 
-## #EngineeringLife : )
+<h2 style="border-bottom: none">#EngineeringLife : )</h2>
 
 Hello there, I'm a curious engineer curating wonders.
 
@@ -10,14 +10,6 @@ Technology fascinates me—the journey from automation to generation, things are
 
 Feel free to poke around, use anything you find useful, or say hi.
 
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mramanindia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400" />
-<img src="https://streak-stats.demolab.com/?user=mramanindia&theme=dark&hide_border=true&background=0D1117&ring=1f6feb" width="400" />
-
----
 
 ## Languages & Tools
 
@@ -32,9 +24,7 @@ Feel free to poke around, use anything you find useful, or say hi.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mramanindia/) · [GitHub](https://github.com/mramanindia) · [Portfolio](https://mramanindia.github.io/)
-
