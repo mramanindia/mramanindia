@@ -50,4 +50,6 @@ Have been Building AI agents that Monitor and fixes Another AI agents at Noveum.
 
 <h2 style="border: none">Connect</h2>
 
-[LinkedIn](https://www.linkedin.com/in/mramanindia/) · [GitHub](https://github.com/mramanindia) · [Portfolio](https://mramanindia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mramanindia/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mramanindia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mramanindia.github.io/)
