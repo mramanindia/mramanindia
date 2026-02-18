@@ -1,4 +1,4 @@
-<!-- <img src="aman_kayaking.png" width="400" align="right" alt="Kayaking" /> -->
+<img src="aman_kayaking.png" width="400" align="right" alt="Kayaking" />
 
 <h2 style="border: none">#EngineeringLife : )</h2>
 
