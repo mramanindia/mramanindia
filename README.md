@@ -1,51 +1,40 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-</br>
+I build stuff with AI—mostly around agents, LLMs, and making things actually work in production. I like solving problems and sharing what I learn. Feel free to poke around, use anything you find useful, or say hi.
 
-Welcome to my profile, 
-</br>
-Over here you will find repositories with projects in AI, being more specific,
-Projects in Computer vision, NLP, Deep Learning, and other AI Technologies.
+---
 
-Yeah, it's fun solving and sharing here,
-</br>
-Please explore it and use it if you need it.
+<h2>📊 GitHub Stats</h2>
 
-Happy Engineering : ) </br>
-Thanks.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mramanindia&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mramanindia&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
- </ul>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-<h2>My Profiles:</h2>
-<a href="https://www.linkedin.com/in/mramanindia/"> LinkedIn
-</a>
-                              
-<a href="https://www.codechef.com/users/amanindia">
-  <img  alt="Codechef" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a> </li> 
-                              
-                              
-</br>
-<h2>Languages and tools I am Good at: </h2>
-</br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramanindia&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
+<h2>🔗 Connect</h2>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mramanindia/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amanindia)
 
-📈 My github stats
+---
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mramanindia&show_icons=true&theme=gotham" alt="amanindia" />
+<h2>🛠️ Tech Stack</h2>
 
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="Java"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" alt="AWS"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg" alt="Azure"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" alt="Kubernetes"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+<code><img height="22" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" alt="Jupyter"></code>
 
+---
 
-
+<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="240" />
